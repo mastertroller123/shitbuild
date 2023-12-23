@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1703348826 source:c:\users\lenovo\documents\coding\shitbuild\main.c
+	"functiondefs.h"
+
+1703348824 c:\users\lenovo\documents\coding\shitbuild\functiondefs.h
+	<stdio.h>
+	<string.h>
+	<process.h>
+	<sys/stat.h>
+
